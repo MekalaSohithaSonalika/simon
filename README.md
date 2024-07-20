@@ -1,6 +1,5 @@
 # simon
-Project 3
-# Simon-game
+
 A Simon game project.
 
 ### Technology Stack
